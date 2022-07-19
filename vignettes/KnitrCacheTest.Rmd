@@ -1,0 +1,9 @@
+---
+title: "Test cache"
+output: html_document
+date: "2022-07-11"
+---
+
+```{r test_cache, cache=T}
+rnorm(1)
+```
